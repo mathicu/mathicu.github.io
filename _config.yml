@@ -1,2 +1,4 @@
-theme: jekyll-theme-cayman
+theme: jekyll-theme-minimal
 title: 统数视界
+header-img: "wx.jpg"
+discription: math icu
