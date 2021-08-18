@@ -4,4 +4,5 @@ description: > # this means to ignore newlines until "baseurl:"
   math icu
 logo: wx.jpg
 github: '//github.com/kaeyleo'
+mathjax: true
   
