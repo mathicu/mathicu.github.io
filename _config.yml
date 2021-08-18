@@ -1,7 +1,7 @@
 theme: jekyll-theme-minimal
 title: 统数视界
 description: > # this means to ignore newlines until "baseurl:"
-  math icu
+  微信扫描二维码，关注公众号
 logo: wx.jpg
 github: '//github.com/kaeyleo'
 markdown: kramdown
