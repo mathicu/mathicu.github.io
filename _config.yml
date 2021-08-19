@@ -7,8 +7,9 @@ github: 'https://mathicu.github.io/index'
 markdown: kramdown
 show_downloads: true
 github:
-  zip_url: http://example.com/download.zip
-  another_url: another value
+  zip_url: https://mathicu.github.io/wjf
+  tar_url: https://mathicu.github.io/kysx
+  repository_url: https://mathicu.github.io/kysx
 
 
   
