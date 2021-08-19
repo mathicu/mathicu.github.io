@@ -8,8 +8,8 @@ markdown: kramdown
 show_downloads: true
 github:
   zip_url: https://mathicu.github.io/wjf
-  tar_url: https://mathicu.github.io/kysx
-  repository_url: https://mathicu.github.io/kysx
+  tar_url: https://mathicu.github.io/gltj
+  repository_url: https://mathicu.github.io/线性代数
 
 
   
