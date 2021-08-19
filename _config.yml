@@ -7,6 +7,7 @@ github: 'https://mathicu.github.io/index'
 markdown: kramdown
 show_downloads: true
 github:
+  home_url: https://mathicu.github.io/
   zip_url: https://mathicu.github.io/wjf
   tar_url: https://mathicu.github.io/gltj
   repository_url: https://mathicu.github.io/xxds
