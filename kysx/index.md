@@ -17,3 +17,11 @@
 | <a href='./problems/math3_2020.docx'>2020年[暂缺]</a> | <a href='./problems/math3_2019.docx'>2019年</a> | <a href='./problems/math3_2018.docx'>2018年</a> | <a href='./problems/math3_2017.docx'>2017年</a> | <a href='./problems/math3_2016.docx'>2016年</a> |
 | <a href='./problems/math3_2015.docx'>2015年</a>       | <a href='./problems/math3_2014.docx'>2014年</a> | <a href='./problems/math3_2013.docx'>2013年</a> | <a href='./problems/math3_2012.docx'>2012年</a> | <a href='./problems/math3_2011.docx'>2011年</a> |
 
+
+
+------
+
+|                                  |                                     |                                     |                                     |
+| :------------------------------: | :---------------------------------: | :---------------------------------: | :---------------------------------: |
+| <a href='./wjf/index'>微积分</a> | <a href='./xxds/index'>线性代数</a> | <a href='./gltj/index'>概率统计</a> | <a href='./kysx/index'>考研数学</a> |
+
