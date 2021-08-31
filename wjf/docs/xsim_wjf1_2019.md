@@ -49,7 +49,7 @@
 
    (C) $\displaystyle f(x)=\frac{1}{(x-1)^{4}},\ [0,2]$
 
-   (D) $\displaystyle f(x)=|x|,\ [-1,1]$
+   (D) $ f(x)=\lvert x\rvert,\ [-1,1]$
 
    
 
@@ -70,7 +70,7 @@
 
 
 
-2. 设函数$\displaystyle f(x)=(1+\cos x)^{\frac1x}$, 则$\mathrm{d}y | _ {x=\frac{\pi}{2}}$ =  $\underline{\qquad}.$
+2. 设函数$\displaystyle f(x)=(1+\cos x)^{\frac1x}$, 则$\mathrm{d}y \lvert _ {x=\frac{\pi}{2}}$ =  $\underline{\qquad}.$
 
  
 
