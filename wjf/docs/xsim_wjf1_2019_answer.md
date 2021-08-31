@@ -72,7 +72,7 @@
  
 
 
-## 二、 填空题(共 5 题,  每题 4 分,  共计 20 分)
+### 二、 填空题(共 5 题,  每题 4 分,  共计 20 分)
 
 1. 函数 $f(x)=\arcsin \left(x^{2}-x-1\right)$ 的定义域 $D=$$\underline{[-1,0] \cup[1,2]}$.
 
@@ -96,7 +96,7 @@
 
 
 
-## 三、 计算题(共 6 题,  每题 8 分,  共计 48 分.解答应写出推理,  演算步骤)
+### 三、 计算题(共 6 题,  每题 8 分,  共计 48 分)
 
 
 1. 设 $f(x)$ 是可导函数, 求函数 $y=f(\tan x) \cdot \arcsin \left[f(x)\right]+\mathrm{e}^{2}$ 的导数.
@@ -168,7 +168,7 @@
    > $$
    >
 
-## 四、 综合与证明题(共 2 题,  第 1 题 11 分,  第 2 题 6 分,  共计 17 分.解答应写出推理步骤)
+### 四、 综合与证明题(共 2 题,  第 1 题 11 分,  第 2 题 6 分,  共计 17 分.)
 
 1. 设函数 $\displaystyle f(x)=\begin{cases}\frac{\varphi(x)-\cos x}{x} & x \neq 0 \newline a & x=0\end{cases},$ 其中 $\varphi(t)$ 具有连续的二阶导数, 且 $\varphi(0)=1$ .
 
@@ -177,25 +177,31 @@
    (2) 讨论 $f^{\prime}(x)$ 在点 $x=0$ 处的连续性.
 
    > (1) 为使 $f(x)$ 在 $x=0$ 处可导, 必须 $\displaystyle \lim_{x \rightarrow 0} f(x)=f(0)=a,$ 且 $f^{\prime}(0)$ 存在.
-   >  因为
-   >  
-   > $\displaystyle \lim _{x \rightarrow 0} f(x)=\lim _{x \rightarrow 0} \frac{\varphi(x)-\cos x}{x}=\lim_{x \rightarrow 0} \frac{\varphi^{\prime}(x)+\sin x}{1}=\varphi^{\prime}(0) \Rightarrow a=\varphi^{\prime}(0),$
-   > 又
+   > 因为
+   > $$
+   > \lim _{x \rightarrow 0} f(x)=\lim _{x \rightarrow 0} \frac{\varphi(x)-\cos x}{x}=\lim_{x \rightarrow 0} \frac{\varphi^{\prime}(x)+\sin x}{1}=\varphi^{\prime}(0) \Rightarrow a=\varphi^{\prime}(0),
+   > $$
    > 
+   >
+   > 又
+   >
    > $$
    > \begin{aligned} f^{\prime}(0)&=\lim_{x \rightarrow 0} \frac{f(x)-f(0)}{x}=\lim_{x \rightarrow 0} \frac{\frac{\varphi(x)-\cos x}{x}-a}{x}=\lim_{x \rightarrow 0} \frac{\varphi(x)-\cos x-a x}{x^{2}}\newline
    > 	&=\lim_{x \rightarrow 0} \frac{\varphi^{\prime}(x)+\sin x-\varphi^{\prime}(0)}{2 x}=\frac{1}{2}\left(\varphi^{\prime \prime}(0)+1\right)
    > 	\end{aligned}
    > $$
+   >
    > 所以当 $a=\varphi^{\prime}(0)$ 时, $f(x)$ 在点 $x=0$ 处可导, 并且
+   >
    > $$
    > f^{\prime}(x)=\begin{cases}
    > 	\dfrac{\left[\varphi^{\prime}(x)+\sin x\right] x-(\varphi(x)-\cos x)}{x^{2}} & x \neq 0 \newline
    > 	\dfrac{1}{2}\left[\varphi^{\prime \prime}(0)+1\right] & x=0
    > 	\end{cases}
    > $$
+   >
    > (2) 因为 
-   > 
+   >
    > $$
    > \begin{aligned}\displaystyle \lim _{x \rightarrow 0} f^{\prime}(x)&=\lim _{x \rightarrow 0} \frac{\left[\varphi^{\prime}(x)+\sin x\right] x-(\varphi(x)-\cos x)}{x^{2}}\newline &=\lim _{x \rightarrow 0} \frac{\left[\varphi^{\prime \prime}(x)+\cos x\right] x}{2 x}\newline
    > &=\frac{1}{2}\left[\varphi^{\prime \prime}(0)+1\right]=f^{\prime}(0)
@@ -208,7 +214,7 @@
 2. 若 $0< a < 1,$ 则对于 $x>0,$ 证明 $x^{a}-a x \leq 1-a$.
 
    > 令 $f(x)=x^{a}-a x,$ 易知 $f(x)$ 在区间 $(0,+\infty)$ 上连续, 则 $f^{\prime}(x)=a x^{a-1}-a=a\left(x^{a-1}-1\right).$
-   > 当 $0<x<1$ 时, $\quad f^{\prime}(x)>0 ;$ 当 $x>1$ 时, $\quad f^{\prime}(x)<0$, 所以当 $x>0$ 时, 函数 $f(x)$ 在 $x=1$ 处取得最大值 $f(1)=1-a,$ 即 $x^{a}-a x \leq 1-a(x>0).$
+   > 当 $0<x<1$ 时, $\quad f^{\prime}(x)>0 ;$ 当 $x>1$ 时, $f^{\prime}(x)<0$, 所以当 $x>0$ 时, 函数 $f(x)$ 在 $x=1$ 处取得最大值 $f(1)=1-a,$ 即 $x^{a}-a x \leq 1-a(x>0).$
 
 
 
