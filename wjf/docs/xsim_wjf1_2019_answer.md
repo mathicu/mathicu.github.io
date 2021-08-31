@@ -113,9 +113,7 @@
 
 2. 求  $\displaystyle \lim _{x \rightarrow 0}\left(3 \mathrm{e}^{\frac{x}{x-1}}-2\right)^{\frac{1}{x}} $.
 
-   > 设 
-   > 
-   > $$\displaystyle y=\left(3 \mathrm{e}^{\frac{x}{x-1}}-2\right)^{\frac{1}{x}}, \ \ln y=\frac{\ln \left(3 \mathrm{e}^{\frac{x}{x-1}}-2\right)}{x}$$
+   > 设 $\displaystyle y=\left(3 \mathrm{e}^{\frac{x}{x-1}}-2\right)^{\frac{1}{x}}$, 则$\ln y=\frac{\ln \left(3 \mathrm{e}^{\frac{x}{x-1}}-2\right)}{x}$
    >
    > 因为 $\displaystyle\lim_{x \rightarrow 0}\ln y=\lim_{x \rightarrow 0} \frac{\frac{3\mathrm{e}^{\frac{x}{x-1}}(-\frac{1}{(x-1)^2})}{3\mathrm{e}^{\frac{x}{x-1}}-2}}{1}=-3,$
    >
@@ -128,6 +126,7 @@
    > 方程两边同时对 $x$ 求导,得 $5 y^{4} y^{\prime}+2 y^{\prime}=1+21 x^{6}$, 
    > $\displaystyle y^{\prime}=\frac{1+21 x^{6}}{5 y^{4}+2},$ 把 $x=0, y=0$ 代入上式得, $\displaystyle y^{\prime}(0)=\frac{1}{2}$,
    > 切线方程: $\displaystyle y-0=\frac{1}{2}(x-0)$,二阶微分为
+   > 
    > $$
    > \begin{aligned}
    > 	\frac{\mathrm{d}^{2} y}{\mathrm{d} x^{2}}&=\frac{126 x^{5}\left(5 y^{4}+2\right)-\left(1+21 x^{6}\right) \cdot 20 y^{3} y^{\prime}}{\left(5 y^{4}+2\right)^{2}} \newline
@@ -135,7 +134,7 @@
    > 	\end{aligned}
    > $$
    >
-
+   >
 
 4. 求函数$f(x)=x\mathrm{e}^x-\mathrm{e}^x+1$的单调区间与极值及凹凸区间与拐点.
 
@@ -157,7 +156,7 @@
 
 6. 设 $\displaystyle f(\ln x)=\frac{\ln (1+x)}{x},$ 求不定积分 $\displaystyle\int f(x) \mathrm{d} x$.
 
-   > 6. 令 $\displaystyle x=\ln t, \quad t=\mathrm{e}^{x}, \quad f(t)=\frac{\ln \left(1+\mathrm{e}^{t}\right)}{\mathrm{e}^{t}}$，则
+   > 令 $\displaystyle x=\ln t, \quad t=\mathrm{e}^{x}, \quad f(t)=\frac{\ln \left(1+\mathrm{e}^{t}\right)}{\mathrm{e}^{t}}$，则
    >
    > $$
    > \begin{aligned}
@@ -178,9 +177,11 @@
    (2) 讨论 $f^{\prime}(x)$ 在点 $x=0$ 处的连续性.
 
    > (1) 为使 $f(x)$ 在 $x=0$ 处可导, 必须 $\displaystyle \lim_{x \rightarrow 0} f(x)=f(0)=a,$ 且 $f^{\prime}(0)$ 存在.
-   > 因为
-   > 	$\displaystyle \lim _{x \rightarrow 0} f(x)=\lim _{x \rightarrow 0} \frac{\varphi(x)-\cos x}{x}=\lim_{x \rightarrow 0} \frac{\varphi^{\prime}(x)+\sin x}{1}=\varphi^{\prime}(0) \Rightarrow a=\varphi^{\prime}(0),$
+   >  因为
+   >  
+   > $\displaystyle \lim _{x \rightarrow 0} f(x)=\lim _{x \rightarrow 0} \frac{\varphi(x)-\cos x}{x}=\lim_{x \rightarrow 0} \frac{\varphi^{\prime}(x)+\sin x}{1}=\varphi^{\prime}(0) \Rightarrow a=\varphi^{\prime}(0),$
    > 又
+   > 
    > $$
    > \begin{aligned} f^{\prime}(0)&=\lim_{x \rightarrow 0} \frac{f(x)-f(0)}{x}=\lim_{x \rightarrow 0} \frac{\frac{\varphi(x)-\cos x}{x}-a}{x}=\lim_{x \rightarrow 0} \frac{\varphi(x)-\cos x-a x}{x^{2}}\newline
    > 	&=\lim_{x \rightarrow 0} \frac{\varphi^{\prime}(x)+\sin x-\varphi^{\prime}(0)}{2 x}=\frac{1}{2}\left(\varphi^{\prime \prime}(0)+1\right)
@@ -194,10 +195,11 @@
    > 	\end{cases}
    > $$
    > (2) 因为 
+   > 
    > $$
    > \begin{aligned}\displaystyle \lim _{x \rightarrow 0} f^{\prime}(x)&=\lim _{x \rightarrow 0} \frac{\left[\varphi^{\prime}(x)+\sin x\right] x-(\varphi(x)-\cos x)}{x^{2}}\newline &=\lim _{x \rightarrow 0} \frac{\left[\varphi^{\prime \prime}(x)+\cos x\right] x}{2 x}\newline
-   > 		&=\frac{1}{2}\left[\varphi^{\prime \prime}(0)+1\right]=f^{\prime}(0)
-   > 		\end{aligned}
+   > &=\frac{1}{2}\left[\varphi^{\prime \prime}(0)+1\right]=f^{\prime}(0)
+   > \end{aligned}
    > $$
    >
    > 所以 $f^{\prime}(x)$ 在点 $x=0$ 处连续.
@@ -205,8 +207,8 @@
 
 2. 若 $0< a < 1,$ 则对于 $x>0,$ 证明 $x^{a}-a x \leq 1-a$.
 
-   > 令 $f(x)=x^{a}-a x,$ 易知 $f(x)$ 在区间 $(0,+\infty)$ 上连续, 则 $$f^{\prime}(x)=a x^{a-1}-a=a\left(x^{a-1}-1\right).$$
-   > 当 $0<x<1$ 时, $\quad f^{\prime}(x)>0 ;$ 当 $x>1$ 时, $\quad f^{\prime}(x)<0$, 所以当 $x>0$ 时, 函数 $f(x)$ 在 $x=1$ 处取得最大值 $f(1)=1-a,$ 即 $$x^{a}-a x \leq 1-a(x>0).$$
+   > 令 $f(x)=x^{a}-a x,$ 易知 $f(x)$ 在区间 $(0,+\infty)$ 上连续, 则 $f^{\prime}(x)=a x^{a-1}-a=a\left(x^{a-1}-1\right).$
+   > 当 $0<x<1$ 时, $\quad f^{\prime}(x)>0 ;$ 当 $x>1$ 时, $\quad f^{\prime}(x)<0$, 所以当 $x>0$ 时, 函数 $f(x)$ 在 $x=1$ 处取得最大值 $f(1)=1-a,$ 即 $x^{a}-a x \leq 1-a(x>0).$
 
 
 
