@@ -178,11 +178,11 @@
 
    > (1) 为使 $f(x)$ 在 $x=0$ 处可导, 必须 $\displaystyle \lim_{x \rightarrow 0} f(x)=f(0)=a,$ 且 $f^{\prime}(0)$ 存在.
    > 因为
+   > 
    > $$
    > \lim _{x \rightarrow 0} f(x)=\lim _{x \rightarrow 0} \frac{\varphi(x)-\cos x}{x}=\lim_{x \rightarrow 0} \frac{\varphi^{\prime}(x)+\sin x}{1}=\varphi^{\prime}(0) \Rightarrow a=\varphi^{\prime}(0),
    > $$
    > 
-   >
    > 又
    >
    > $$
@@ -214,7 +214,7 @@
 2. 若 $0< a < 1,$ 则对于 $x>0,$ 证明 $x^{a}-a x \leq 1-a$.
 
    > 令 $f(x)=x^{a}-a x,$ 易知 $f(x)$ 在区间 $(0,+\infty)$ 上连续, 则 $f^{\prime}(x)=a x^{a-1}-a=a\left(x^{a-1}-1\right).$
-   > 当 $0<x<1$ 时, $\quad f^{\prime}(x)>0 ;$ 当 $x>1$ 时, $f^{\prime}(x)<0$, 所以当 $x>0$ 时, 函数 $f(x)$ 在 $x=1$ 处取得最大值 $f(1)=1-a,$ 即 $x^{a}-a x \leq 1-a(x>0).$
+   > 当 $0<x<1$ 时, $f^{\prime}(x)>0 ;$ 当 $x>1$ 时, $f^{\prime}(x)<0$, 所以当 $x>0$ 时, 函数 $f(x)$ 在 $x=1$ 处取得最大值 $f(1)=1-a,$ 即 $x^{a}-a x \leq 1-a(x>0).$
 
 
 
