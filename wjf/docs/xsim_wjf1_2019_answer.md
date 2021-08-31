@@ -1,9 +1,4 @@
-
-
-# 高数B--微积分(一)2019--2020学年期末试题参考答案
-
-
-## 一、 选择题(共 5 题,  每题 3 分,  共计 15 分)
+### 一、 选择题(共 5 题,  每题 3 分,  共计 15 分)
 
 1. 当 $x \rightarrow 0$ 时, 下列无穷小量
 
@@ -15,15 +10,15 @@
 
    (4) $\displaystyle \mathrm{e}^{x^4－ x}－1$
 
-从低阶到高阶排列顺序为(D).
+   从低阶到高阶排列顺序为(D).
 
-​		(A) (1)(2)(3)(4)
+   (A) (1)(2)(3)(4)
 
-​		(B) (3)(1)(2)(4)
+   (B) (3)(1)(2)(4)
 
-​		(C) (4)(3)(2)(1)
+   (C) (4)(3)(2)(1)
 
-​		(D) (4)(2)(1)(3)
+   (D) (4)(2)(1)(3)
 
 
 
@@ -54,13 +49,13 @@
 
 4. 下列函数在给定区间上满足罗尔定理条件的是(B).
 
-   (A) $f(x) = \begin{cases} \mathrm{e}^{x-1}, & 0< x \leq 2 \\  \mathrm{e}, & x=0 \end{cases}, [0,2]$ 
+   (A) $f(x) = \begin{cases} \mathrm{e}^{x-1}, & 0< x \leq 2 \newline  \mathrm{e}, & x=0 \end{cases}, [0,2]$ 
 
    (B) $f(x)=x^{2}-2 x-3, \ [-1,3]$
 
    (C) $\displaystyle f(x)=\frac{1}{(x-1)^{4}},\ [0,2]$
 
-   (D) $f(x)=|x|,\ [-1,1]$
+   (D) $f(x)=\lvert x\rvert,\ [-1,1]$
 
    
 
@@ -84,11 +79,11 @@
 
 
 
-2. 设函数$\displaystyle f(x)=(1+\cos x)^{\frac1x}$, $\mathrm{d}y|_{x=\frac{\pi}{2}}$ = $\underline{\displaystyle -\frac2\pi \mathrm{d}x}$.
+2. 设函数$\displaystyle f(x)=(1+\cos x)^{\frac1x}$, $\mathrm{d}y \lvert_{x=\frac{\pi}{2}}$ = $\underline{\displaystyle -\frac2\pi \mathrm{d}x}$.
 
  
 
-3. 设 $\begin{cases} x=f^{\prime}(t) \\ y=t f^{\prime}(t)-f(t)\end{cases},$ 其中 $f(t)$ 具有二阶导数, 且 $f^{\prime \prime}(t) \neq 0,$ 则 $\displaystyle \frac{\mathrm{d}^{2} y}{\mathrm{d} x^{2}}=$ $\underline{\displaystyle \frac{1}{f^{\prime \prime}(t)}}$.
+3. 设 $\begin{cases} x=f^{\prime}(t) \newline y=t f^{\prime}(t)-f(t)\end{cases},$ 其中 $f(t)$ 具有二阶导数, 且 $f^{\prime \prime}(t) \neq 0,$ 则 $\displaystyle \frac{\mathrm{d}^{2} y}{\mathrm{d} x^{2}}=$ $\underline{\displaystyle \frac{1}{f^{\prime \prime}(t)}}$.
 
  
 
@@ -107,12 +102,10 @@
 1. 设 $f(x)$ 是可导函数, 求函数 $y=f(\tan x) \cdot \arcsin \left[f(x)\right]+\mathrm{e}^{2}$ 的导数.
 
    > 由条件可得
-   > $$
-   > \begin{aligned}
-   > 	y^{\prime}&=[f(\tan x)]^{\prime} \cdot \arcsin \left[f(x)\right]+f(\tan x) \cdot(\arcsin \left[f(x)\right])^{\prime}+\left(\mathrm{e}^{2}\right)^{\prime} \\
+   > $$\begin{aligned}
+   > 	y^{\prime}&=[f(\tan x)]^{\prime} \cdot \arcsin \left[f(x)\right]+f(\tan x) \cdot(\arcsin \left[f(x)\right])^{\prime}+\left(\mathrm{e}^{2}\right)^{\prime} \newline
    > 	&=f^{\prime}(\tan x) \sec ^{2} x \cdot \arcsin \left[f(x)\right]+\frac{f(\tan x)}{\sqrt{1-f^{2}(x)}} f^{\prime}(x)
-   > 	\end{aligned}
-   > $$
+   > 	\end{aligned}$$
    >
    > 
 
@@ -134,7 +127,7 @@
    > 切线方程: $\displaystyle y-0=\frac{1}{2}(x-0)$,二阶微分为
    > $$
    > \begin{aligned}
-   > 	\frac{\mathrm{d}^{2} y}{\mathrm{d} x^{2}}&=\frac{126 x^{5}\left(5 y^{4}+2\right)-\left(1+21 x^{6}\right) \cdot 20 y^{3} y^{\prime}}{\left(5 y^{4}+2\right)^{2}} \\
+   > 	\frac{\mathrm{d}^{2} y}{\mathrm{d} x^{2}}&=\frac{126 x^{5}\left(5 y^{4}+2\right)-\left(1+21 x^{6}\right) \cdot 20 y^{3} y^{\prime}}{\left(5 y^{4}+2\right)^{2}} \newline
    >    &=\frac{126 x^{5}\left(5 y^{4}+2\right)^{2}-20 y^{3}\left(1+21 x^{6}\right)^{2}}{\left(5 y^{4}+2\right)^{3}}.
    > 	\end{aligned}
    > $$
@@ -151,7 +144,7 @@
    > 令  $x =2 \sin t $,则
    > $$
    > \begin{aligned}
-   > \text { 原式 } & =\int \frac{(2 \sin t)^{2}}{2 \cos t} \cdot 2 \cos t \mathrm{d} t=2 \int(1-\cos 2 t) \mathrm{d} t \\
+   > \text { 原式 } & =\int \frac{(2 \sin t)^{2}}{2 \cos t} \cdot 2 \cos t \mathrm{d} t=2 \int(1-\cos 2 t) \mathrm{d} t \newline
    >  & =2\left(t-\frac{1}{2} \sin 2 t\right)+C=2 \arcsin \frac{x}{2}-\frac{x}{2} \sqrt{4-x^{2}}+C
    > \end{aligned}
    > $$
@@ -164,9 +157,9 @@
    >
    > $$
    > \begin{aligned}
-   > \text { 原式 } &=\int \frac{\ln \left(1+\mathrm{e}^{x}\right)}{\mathrm{e}^{x}} \mathrm{d} x=\int \ln \left(1+\mathrm{e}^{x}\right) \mathrm{d}\left(-\mathrm{e}^{-x}\right) \\
-   > &=-\mathrm{e}^{-x} \ln \left(1+\mathrm{e}^{x}\right)+\int \mathrm{e}^{-x} \cdot \frac{\mathrm{e}^{x}}{1+\mathrm{e}^{x}} \mathrm{d} x \\
-   > &=-\mathrm{e}^{-x} \ln \left(1+\mathrm{e}^{x}\right)+\int\left(1-\frac{\mathrm{e}^{x}}{1+\mathrm{e}^{x}}\right) \mathrm{d} x \\
+   > \text { 原式 } &=\int \frac{\ln \left(1+\mathrm{e}^{x}\right)}{\mathrm{e}^{x}} \mathrm{d} x=\int \ln \left(1+\mathrm{e}^{x}\right) \mathrm{d}\left(-\mathrm{e}^{-x}\right) \newline
+   > &=-\mathrm{e}^{-x} \ln \left(1+\mathrm{e}^{x}\right)+\int \mathrm{e}^{-x} \cdot \frac{\mathrm{e}^{x}}{1+\mathrm{e}^{x}} \mathrm{d} x \newline
+   > &=-\mathrm{e}^{-x} \ln \left(1+\mathrm{e}^{x}\right)+\int\left(1-\frac{\mathrm{e}^{x}}{1+\mathrm{e}^{x}}\right) \mathrm{d} x \newline
    > &=-\left(1+\mathrm{e}^{-x}\right) \ln \left(1+\mathrm{e}^{x}\right)+x+C
    > \end{aligned}
    > $$
@@ -174,7 +167,7 @@
 
 ## 四、 综合与证明题(共 2 题,  第 1 题 11 分,  第 2 题 6 分,  共计 17 分.解答应写出推理步骤)
 
-1. 设函数 $\displaystyle f(x)=\begin{cases}\frac{\varphi(x)-\cos x}{x} & x \neq 0 \\ a & x=0\end{cases},$ 其中 $\varphi(t)$ 具有连续的二阶导数, 且 $\varphi(0)=1$ .
+1. 设函数 $\displaystyle f(x)=\begin{cases}\frac{\varphi(x)-\cos x}{x} & x \neq 0 \newline a & x=0\end{cases},$ 其中 $\varphi(t)$ 具有连续的二阶导数, 且 $\varphi(0)=1$ .
 
    (1) 确定 $a$ 的值, 使 $f(x)$ 在点 $x=0$ 处可导, 并求 $f^{\prime}(x)$;
 
@@ -198,7 +191,7 @@
    > $$
    > (2) 因为 
    > $$
-   > \begin{aligned}\displaystyle \lim _{x \rightarrow 0} f^{\prime}(x)&=\lim _{x \rightarrow 0} \frac{\left[\varphi^{\prime}(x)+\sin x\right] x-(\varphi(x)-\cos x)}{x^{2}}\\ &=\lim _{x \rightarrow 0} \frac{\left[\varphi^{\prime \prime}(x)+\cos x\right] x}{2 x}\newline
+   > \begin{aligned}\displaystyle \lim _{x \rightarrow 0} f^{\prime}(x)&=\lim _{x \rightarrow 0} \frac{\left[\varphi^{\prime}(x)+\sin x\right] x-(\varphi(x)-\cos x)}{x^{2}}\newline &=\lim _{x \rightarrow 0} \frac{\left[\varphi^{\prime \prime}(x)+\cos x\right] x}{2 x}\newline
    > 		&=\frac{1}{2}\left[\varphi^{\prime \prime}(0)+1\right]=f^{\prime}(0)
    > 		\end{aligned}
    > $$

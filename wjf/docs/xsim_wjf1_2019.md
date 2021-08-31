@@ -41,7 +41,7 @@
 
    
 
-4. 下列函数在给定区间上满足罗尔定理条件的是().
+4. 下列函数在给定区间上满足罗尔定理条件的是( ).
 
    (A) $f(x) = \begin{cases} \mathrm{e}^{x-1}, & 0< x \leq 2 \newline  \mathrm{e}, & x=0 \end{cases}, [0,2]$ 
 
@@ -53,7 +53,7 @@
 
    
 
-5. 设 $f(x)$ 是连续函数, $F(x)$ 是 $f(x)$ 的原函数().
+5. 设 $f(x)$ 是连续函数, $F(x)$ 是 $f(x)$ 的原函数( ).
 
    (A) 当 $f(x)$ 是奇函数时, $F(x)$ 必为偶函数
 
@@ -70,11 +70,11 @@
 
 
 
-2. 设函数$\displaystyle f(x)=(1+\cos x)^{\frac1x}$, 则$\mathrm{d}y \lvert _ {x=\frac{\pi}{2}}$ =  $\underline{\qquad}.$
+2. 设函数$\displaystyle f(x)=(1+\cos x)^{\frac1x}$, 则$\mathrm{d}y\lvert _{x=\frac{\pi}{2}}$ =  $\underline{\qquad}.$
 
  
 
-3. 设 $\begin{cases} x=f^{\prime}(t) \\ y=t f^{\prime}(t)-f(t)\end{cases},$ 其中 $f(t)$ 具有二阶导数, 且 $f^{\prime \prime}(t) \neq 0,$ 则 $\displaystyle \frac{\mathrm{d}^{2} y}{\mathrm{d} x^{2}}=$  $\underline{\qquad}.$
+3. 设 $\begin{cases} x=f^{\prime}(t) \newline y=t f^{\prime}(t)-f(t)\end{cases},$ 其中 $f(t)$ 具有二阶导数, 且 $f^{\prime \prime}(t) \neq 0,$ 则 $\displaystyle \frac{\mathrm{d}^{2} y}{\mathrm{d} x^{2}}=$  $\underline{\qquad}.$
 
  
 
@@ -116,7 +116,7 @@
 
 ### 四、 综合与证明题(共 2 题,  第 1 题 11 分,  第 2 题 6 分,  共计 17 分)
 
-1. 设函数 $\displaystyle f(x)=\begin{cases}\dfrac{\varphi(x)-\cos x}{x} & x \neq 0 \\ a & x=0\end{cases},$ 其中 $\varphi(t)$ 具有连续的二阶导数, 且 $\varphi(0)=1$ .
+1. 设函数 $\displaystyle f(x)=\begin{cases}\dfrac{\varphi(x)-\cos x}{x} & x \neq 0 \newline a & x=0\end{cases},$ 其中 $\varphi(t)$ 具有连续的二阶导数, 且 $\varphi(0)=1$ .
 
    (1) 确定 $a$ 的值, 使 $f(x)$ 在点 $x=0$ 处可导, 并求 $f^{\prime}(x)$;
 
