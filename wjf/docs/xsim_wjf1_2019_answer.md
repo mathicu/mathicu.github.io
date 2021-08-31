@@ -87,7 +87,7 @@
 
  
 
-4. $\displaystyle \lim _{x \rightarrow 0} \frac{\mathrm{e}^{x}-\mathrm{e}^{-x}}{\sin x}=$ $\underline{2}.$
+4. $\displaystyle  \lim _{x \rightarrow 0} \frac{\mathrm{e}^{x}-\mathrm{e}^{-x}}{\sin x}=$ $\underline{2}.$
 
    
 
@@ -102,6 +102,7 @@
 1. 设 $f(x)$ 是可导函数, 求函数 $y=f(\tan x) \cdot \arcsin \left[f(x)\right]+\mathrm{e}^{2}$ 的导数.
 
    > 由条件可得
+   > 
    > $$\begin{aligned}
    > 	y^{\prime}&=[f(\tan x)]^{\prime} \cdot \arcsin \left[f(x)\right]+f(\tan x) \cdot(\arcsin \left[f(x)\right])^{\prime}+\left(\mathrm{e}^{2}\right)^{\prime} \newline
    > 	&=f^{\prime}(\tan x) \sec ^{2} x \cdot \arcsin \left[f(x)\right]+\frac{f(\tan x)}{\sqrt{1-f^{2}(x)}} f^{\prime}(x)
@@ -112,7 +113,9 @@
 
 2. 求  $\displaystyle \lim _{x \rightarrow 0}\left(3 \mathrm{e}^{\frac{x}{x-1}}-2\right)^{\frac{1}{x}} $.
 
-   > 设 $$\displaystyle y=\left(3 \mathrm{e}^{\frac{x}{x-1}}-2\right)^{\frac{1}{x}}, \ \ln y=\frac{\ln \left(3 \mathrm{e}^{\frac{x}{x-1}}-2\right)}{x}$$
+   > 设 
+   > 
+   > $$\displaystyle y=\left(3 \mathrm{e}^{\frac{x}{x-1}}-2\right)^{\frac{1}{x}}, \ \ln y=\frac{\ln \left(3 \mathrm{e}^{\frac{x}{x-1}}-2\right)}{x}$$
    >
    > 因为 $\displaystyle\lim_{x \rightarrow 0}\ln y=\lim_{x \rightarrow 0} \frac{\frac{3\mathrm{e}^{\frac{x}{x-1}}(-\frac{1}{(x-1)^2})}{3\mathrm{e}^{\frac{x}{x-1}}-2}}{1}=-3,$
    >
@@ -142,6 +145,7 @@
 5. 计算不定积分 $\displaystyle\int \frac{x^{2}}{\sqrt{4-x^{2}}} \mathrm{d} x$.
 
    > 令  $x =2 \sin t $,则
+   > 
    > $$
    > \begin{aligned}
    > \text { 原式 } & =\int \frac{(2 \sin t)^{2}}{2 \cos t} \cdot 2 \cos t \mathrm{d} t=2 \int(1-\cos 2 t) \mathrm{d} t \newline
