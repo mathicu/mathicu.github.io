@@ -1,4 +1,4 @@
-![xsim_wjf--15](pic/xsim_wjf--15-16308415273571.svg)
+![xsim_wjf--15](pic/xsim_wjf--15.svg)
 
 ![xsim_wjf--16](pic/xsim_wjf--16.svg)
 

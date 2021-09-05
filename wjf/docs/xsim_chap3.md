@@ -1,6 +1,6 @@
-![xsim_wjf--07](pic/xsim_wjf--07-16308414545791.svg)
+![xsim_wjf--07](pic/xsim_wjf--07.svg)
 
-![xsim_wjf--08](pic/xsim_wjf--08-16308414545802.svg)
+![xsim_wjf--08](pic/xsim_wjf--08.svg)
 
 ![xsim_wjf--09](pic/xsim_wjf--09.svg)
 
