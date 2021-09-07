@@ -7,12 +7,12 @@
 | **课件**                                 |                                          |                                          |                                          |
 | :--------------------------------------- | :--------------------------------------- | :--------------------------------------- | :--------------------------------------- |
 | <a href='./docs/ppt_chap1.pdf'>第1章</a> | <a href='./docs/ppt_chap2.pdf'>第2章</a> | <a href='./docs/ppt_chap3.pdf'>第3章</a> | <a href='./docs/ppt_chap4.pdf'>第4章</a> |
-| <a href='./docs/ppt_chap5.pdf'>第5章</a> | <a href='./docs/ppt_chap6.pdf'>第6章</a> | <a href='./docs/ppt_chap7.pdf'>第7章</a> | <a href='./docs/ppt_fx1.pdf'>复习</a>    |
+| <a href='./docs/ppt_chap5.pdf'>第5章</a> | <a href='./docs/ppt_chap6.pdf'>第6章</a> | <a href='./docs/ppt_chap7.pdf'>第7章</a> | <a href='./docs/ppt_fx1'>复习</a>        |
 
-| **习题**                                  |                                           |                                           |                                           |
-| :---------------------------------------- | :---------------------------------------- | :---------------------------------------- | :---------------------------------------- |
-| <a href='./docs/xsim_chap1.pdf'>第1章</a> | <a href='./docs/xsim_chap2.pdf'>第2章</a> | <a href='./docs/xsim_chap3.pdf'>第3章</a> | <a href='./docs/xsim_chap4.pdf'>第4章</a> |
-| <a href='./docs/xsim_chap5.pdf'>第5章</a> | <a href='./docs/xsim_chap6.pdf'>第6章</a> | <a href='./docs/xsim_chap7.pdf'>第7章</a> |                                           |
+| **习题**                              |                                       |                                       |                                       |
+| :------------------------------------ | :------------------------------------ | :------------------------------------ | :------------------------------------ |
+| <a href='./docs/xsim_chap1'>第1章</a> | <a href='./docs/xsim_chap2'>第2章</a> | <a href='./docs/xsim_chap3'>第3章</a> | <a href='./docs/xsim_chap4'>第4章</a> |
+| <a href='./docs/xsim_chap5'>第5章</a> | <a href='./docs/xsim_chap6'>第6章</a> | <a href='./docs/xsim_chap7'>第7章</a> |                                       |
 
 
 
