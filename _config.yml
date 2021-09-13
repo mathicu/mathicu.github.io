@@ -1,7 +1,7 @@
 theme: jekyll-theme-modernist
-title: 统数视界
+title: MathICU
 description: > # this means to ignore newlines until "baseurl:"
-  微信搜索“统数视界”，关注公众号。
+  MathICU, math I see you.
 logo: pics/wx.jpg
 github: 'https://mathicu.github.io/index'
 markdown: kramdown
