@@ -8,10 +8,11 @@
 
 <table>
     <tr>
-        <td ><center><img src="pic/wx.jpg" height = "50%" width = "50%" ><br />扫码关注公众号 </center></td>
-        <td ><center><img src="pic/BZ.png" height = "50%" width = "50%"><br />扫码关注B站</center></td>
+        <td ><center><img src="pic/wx.jpg" height = "60%" width = "60%" ><br />扫码关注公众号 </center></td>
+        <td ><center><img src="pic/BZ.png" height = "60%" width = "60%"><br />扫码关注B站</center></td>
     </tr>
 </table>
+
 
 
 
