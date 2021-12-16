@@ -8,10 +8,11 @@
 
 <table>
     <tr>
-        <td ><center><img src="pic/wx.jpg" height = "250" >微信扫描二维码, 关注公众号 </center></td>
-        <td ><center><img src="pic/BZ.png" height = "250" >扫描二维码, 关注B站</center></td>
+        <td ><center><img src="pic/wx.jpg" height = "250" ><br />微信扫描二维码, 关注公众号 </center></td>
+        <td ><center><img src="pic/BZ.png" height = "250" ><br />扫描二维码, 关注B站</center></td>
     </tr>
 </table>
+
 
 
 
