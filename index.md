@@ -4,8 +4,17 @@
 
 
 
-| 微信扫描二维码, 关注公众号<img src="pic/wx.jpg" alt="wx" width="250"/> | 扫描二维码关注B站<img src="pic/BZ.png" alt="BZ" width="250" /> |
-| ------------------------------------------------------------ | ------------------------------------------------------------ |
+
+
+<table>
+    <tr>
+        <td ><center><img src="pic/wx.jpg" height = "250" >微信扫描二维码, 关注公众号 </center></td>
+        <td ><center><img src="pic/BZ.png" height = "250" >扫描二维码, 关注B站</center></td>
+    </tr>
+</table>
+
+
+
 
 
 
