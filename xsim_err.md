@@ -2,11 +2,11 @@
 
 
 
-### 微积分上
+## 微积分
 
 1. 微积分习题汇编01第1题：题目中“需求弹性为$\eta(100)=-\frac{100}{f(100)},f'(100)=0.25$”应改为“需求弹性为$\eta(100)=-\frac{100}{f(100)}{\color{red}\cdot}f'(100)=0.25$”
 
-### 概率统计
+## 概率统计
 
 感谢@Lumos, @苦工, @dormant, @甜甜等提供的勘误信息！ 
 
@@ -16,7 +16,10 @@
 
 3. 概率统计习题汇编02第7题：答案应为 (D) $5$;
 
-4. 概率统计习题汇编03第6题：联合概率密度函数应为：$\begin{equation}p(x,y)=\begin{cases}\frac{1}{2}(x+y)\mathrm{e}^{-(x+y)}, & \ x>0,y>0\newline 0, & \ \text{其它}\end{cases};\end{equation}$
+4. 概率统计习题汇编03第6题：联合概率密度函数应为：
+   $$
+   \begin{equation}p(x,y)=\begin{cases}\frac{1}{2}(x+y)\mathrm{e}^{-(x+y)}, & \ x>0,y>0\newline 0, & \ \text{其它}\end{cases};\end{equation}
+   $$
 
-### 线性代数
+
 
