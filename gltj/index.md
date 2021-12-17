@@ -6,14 +6,37 @@
 
 ### 课件讲义
 
-
-
-
-
-|                                            |                                            |                                            |                                            |
-| :----------------------------------------- | :----------------------------------------- | :----------------------------------------- | :----------------------------------------- |
-| <a href='./docs/print_chap1.pdf'>第1章</a> | <a href='./docs/print_chap2.pdf'>第2章</a> | <a href='./docs/print_chap3.pdf'>第3章</a> | <a href='./docs/print_chap4.pdf'>第4章</a> |
-| <a href='./docs/print_chap5.pdf'>第5章</a> | <a href='./docs/print_chap6.pdf'>第6章</a> | <a href='./docs/print_chap7.pdf'>第7章</a> | <a href='./docs/print_fx1.pdf'>复习</a>    |
+<table border="0" cellpadding="1" bgcolor="#00CCCC" width="300">
+    <caption ></caption>
+    <tr>
+	    <td bgcolor="#FFFFFF">
+		 <a href='./docs/print_chap1.pdf'>第1章</a>
+		</td>
+		<td bgcolor="#FFFFFF">
+		 <a href='./docs/print_chap2.pdf'>第2章</a>
+		</td>
+        <td bgcolor="#FFFFFF">
+		 <a href='./docs/print_chap3.pdf'>第3章</a>
+		</td>
+        <td bgcolor="#FFFFFF">
+		 <a href='./docs/print_chap4.pdf'>第4章</a>
+		</td>
+	  </tr>
+	  <tr>
+	     <td bgcolor="#FFFFFF">
+		 <a href='./docs/print_chap5.pdf'>第5章</a>
+		</td>
+          <td bgcolor="#FFFFFF">
+		 <a href='./docs/print_chap6.pdf'>第6章</a>
+		</td>
+          <td bgcolor="#FFFFFF">
+		 <a href='./docs/print_chap7.pdf'>第7章</a>
+		</td>
+          <td bgcolor="#FFFFFF">
+		 <a href='./docs/print_fx1.pdf'>复习</a>
+		</td>
+	  </tr>
+   </table>
 
 ### 习题汇编
 
@@ -51,9 +74,7 @@
 
 ### 勘误信息
 
-习题汇编勘误点击<a href='./docs/err'>[这里]</a>查看。
-
-
+习题汇编勘误请点击<a href='./docs/err'>[这里]</a>查看。
 
 |                                   |                                      |                                      |                                |
 | :-------------------------------- | :----------------------------------- | :----------------------------------- | :----------------------------- |
