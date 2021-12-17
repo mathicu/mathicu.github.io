@@ -1,10 +1,10 @@
 **点击相应的链接即可浏览或者下载资料。**
 
-#### 选用教材
+### 选用教材
 
 《经济数学--微积分》，主编：吴传生， 高等教育出版社(第3版)
 
-#### 课件讲义
+### 课件讲义
 
 <table border="0" cellpadding="1" bgcolor="#00CCCC" width="300">
     <caption ></caption>
@@ -37,7 +37,7 @@
 		</td>
 	  </tr>
    </table>
-#### 习题汇编
+### 习题汇编
 
 <table border="0" cellpadding="1" bgcolor="#00CCCC" width="300">
     <caption ></caption>
@@ -70,7 +70,7 @@
 		</td>
 	  </tr>
    </table>
-#### 勘误信息
+### 勘误信息
 
 习题汇编勘误请点击<a href='./docs/err'>[这里]</a>查看。
 
