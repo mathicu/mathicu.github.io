@@ -76,7 +76,30 @@
 
 习题汇编勘误请点击<a href='../err'>[这里]</a>查看.
 
-|                                   |                                      |                                      |                                      |
-| :-------------------------------- | :----------------------------------- | :----------------------------------- | :----------------------------------- |
-| <a href='../wjf/index'>微积分</a> | <a href='../xxds/index'>线性代数</a> | <a href='../gltj/index'>概率统计</a> | <a href='../kysx/index'>考研数学</a> |
-
+<table border="0" cellpadding="1" width="300">
+    <caption ></caption>
+    <tr>
+	    <td>
+		</td>
+		<td>
+		</td>
+        <td>
+		</td>
+        <td>
+		</td>
+	  </tr>
+	  <tr>
+	     <td>
+		 <a href='../wjf/index'>微积分</a>
+		</td>
+          <td>
+		 <a href='../xxds/index'>线性代数</a>
+		</td>
+          <td>
+		 <a href='../gltj/index'>概率统计</a>
+		</td>
+          <td>
+		 <a href='../kysx/index'>考研数学</a>
+		</td>
+	  </tr>
+   </table>
