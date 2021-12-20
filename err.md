@@ -22,14 +22,14 @@
    $$
 
 5. 概率统计习题汇编04第15题：条件中概率分布中的 $X$ 和 $Y$ 的位置写反了，应该为：
-6. <center><img src="pic/err_gltj_chap4_15.png" height = "45%" width = "45%" ></center>
 
-   概率统计习题汇编03第4题：答案应为 $7/30$;
+   <center><img src="pic/err_gltj_chap4_15.png" height = "45%" width = "45%" ></center>
+
+6. 概率统计习题汇编03第4题：答案应为 $7/30$;
 
    
 
    
-
 
 
 
