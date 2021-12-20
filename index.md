@@ -8,20 +8,8 @@
         <td ><center><img src="pic/BZ.png" height = "60%" width = "60%"><br />扫码关注B站</center></td>
     </tr>
 </table>
-
-
 <table border="0" cellpadding="1" width="300">
     <caption ></caption>
-    <tr>
-	    <td>
-		</td>
-		<td>
-		</td>
-        <td>
-		</td>
-        <td>
-		</td>
-	  </tr>
 	  <tr>
 	     <td>
 		 <a href='./wjf/index'>微积分</a>
@@ -37,3 +25,4 @@
 		</td>
 	  </tr>
    </table>
+
