@@ -8,7 +8,7 @@
 
 ## 概率统计
 
-感谢@Lumos, @苦工, @dormant, @甜甜等提供的勘误信息！ 
+感谢@Lumos, @苦工, @dormant, @甜甜, @灰灰等人提供的勘误信息！ 
 
 1. 概率统计习题汇编01第17题：第(1)问应为：求至少有$1$只蓝球的概率;
 
@@ -20,6 +20,16 @@
    $$
    \begin{equation}p(x,y)=\begin{cases}\frac{1}{2}(x+y)\mathrm{e}^{-(x+y)}, & \ x>0,y>0\newline 0, & \ \text{其它}\end{cases};\end{equation}
    $$
+
+5. 概率统计习题汇编04第15题：条件中概率分布中的 $X$ 和 $Y$ 的位置写反了，应该为：
+6. <center><img src="pic/err_gltj_chap4_15.png" height = "45%" width = "45%" ></center>
+
+   概率统计习题汇编03第4题：答案应为 $7/30$;
+
+   
+
+   
+
 
 
 
