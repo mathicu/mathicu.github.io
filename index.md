@@ -10,6 +10,46 @@
 </table>
 
 
+<table border="0" cellpadding="1" width="300">
+    <caption ></caption>
+    <tr>
+	    <td bgcolor="#FFFFFF">
+		</td>
+		<td bgcolor="#FFFFFF">
+		</td>
+        <td bgcolor="#FFFFFF">
+		</td>
+        <td bgcolor="#FFFFFF">
+		</td>
+	  </tr>
+	  <tr>
+	     <td bgcolor="#FFFFFF">
+		 <a href='./wjf/index'>微积分</a>
+		</td>
+          <td bgcolor="#FFFFFF">
+		 <a href='./xxds/index'>线性代数</a>
+		</td>
+          <td bgcolor="#FFFFFF">
+		 <a href='./gltj/index'>概率统计</a>
+		</td>
+          <td bgcolor="#FFFFFF">
+		 <a href='./kysx/index'>考研数学</a>
+		</td>
+	  </tr>
+   </table>
+
+
+
+
+
+
+
+
+
+
+
+
+
 |                                  |                                     |                                     |                                     |
 | :------------------------------- | :---------------------------------- | :---------------------------------- | :---------------------------------- |
 | <a href='./wjf/index'>微积分</a> | <a href='./xxds/index'>线性代数</a> | <a href='./gltj/index'>概率统计</a> | <a href='./kysx/index'>考研数学</a> |
