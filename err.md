@@ -2,11 +2,29 @@
 
 我把目前发现的所有错误列在了下面，列表中的“XXXX习题汇编YY”即为“XXX习题汇编中的第YY章”。
 
-## 微积分
+## 微积分课件
+
+感谢@黄静思等人提供的勘误信息！
+
+1. 第4章35页最后一行公式应为：
+   $$
+   f\left(x_{1}\right)+f\left(x_{2}\right)=2 f\left(x_{0}\right)+\frac{\left(x_{1}-x_{2}\right)^{2}}{\color{red}8}\left(f^{\prime \prime}\left(\xi_{1}\right)+f^{\prime \prime}\left(\xi_{2}\right)\right),
+   $$
+
+2. 第5章12页例3第(2)小题：$\displaystyle \int \sin(3x+4)\mathrm{d}{x}$ 答案应为 ${\color{red}-}\dfrac13\cos (3x+4)+C$;
+
+3. 第5章12页练习1第(1)小题：$\displaystyle \int \mathrm{e}^{-3x+2}\mathrm{d}{x}$ 答案应为  $-\dfrac13\mathrm{e}^{-3x+{\color{red}2}}+C$;
+
+4. 第5章12页练习6：求不定积分 $\displaystyle \int \cos^2 2x \mathrm{d}{x}$, 答案应为 ${\color{red}\dfrac18}\sin4x +\dfrac{x}2+C$;
+
+
+## 微积分习题汇编
 
 1. 微积分习题汇编01第1题：题目中“需求弹性为$\eta(100)=-\frac{100}{f(100)},f'(100)=0.25$”应改为“需求弹性为$\eta(100)=-\frac{100}{f(100)}{\color{red}\cdot}f'(100)=0.25$”
 
-## 概率统计
+   
+
+## 概率统计习题汇编
 
 感谢@Lumos, @苦工, @dormant, @甜甜, @灰灰, @Lucy小路等人提供的勘误信息！ 
 

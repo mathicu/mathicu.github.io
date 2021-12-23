@@ -74,7 +74,7 @@
 
 ### 勘误信息
 
-习题汇编勘误请点击<a href='../err'>[这里]</a>查看.
+课件和习题汇编的勘误信息请点击<a href='../err'>[这里]</a>查看，如有新发现的错误，欢迎发送邮件至 mathicu@126.com 告诉我.
 
 <table border="0" cellpadding="1" width="300">
     <caption ></caption>
