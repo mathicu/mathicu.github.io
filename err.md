@@ -2,6 +2,8 @@
 
 我把目前发现的所有错误列在了下面，列表中的“XXXX习题汇编YY”即为“XXX习题汇编中的第YY章”。
 
+$\newcommand{\d}{\mathrm{d}} \newcommand{\e}{\mathrm{e}}$
+
 ## 微积分课件
 
 感谢@黄静思等人提供的勘误信息！
@@ -11,11 +13,25 @@
    f\left(x_{1}\right)+f\left(x_{2}\right)=2 f\left(x_{0}\right)+\frac{\left(x_{1}-x_{2}\right)^{2}}{\color{red}8}\left(f^{\prime \prime}\left(\xi_{1}\right)+f^{\prime \prime}\left(\xi_{2}\right)\right),
    $$
 
-2. 第5章12页例3第(2)小题：$\displaystyle \int \sin(3x+4)\mathrm{d}{x}$ 答案应为 ${\color{red}-}\dfrac13\cos (3x+4)+C$;
+2. 第5章12页例3第(2)小题：$\displaystyle \int \sin(3x+4)\mathrm{d}{x}$ 答案应为 ${\color{red}-\dfrac13}\cos (3x+4)+C$;
 
-3. 第5章12页练习1第(1)小题：$\displaystyle \int \mathrm{e}^{-3x+2}\mathrm{d}{x}$ 答案应为  $-\dfrac13\mathrm{e}^{-3x+{\color{red}2}}+C$;
+3. 第5章12页练习1第(1)小题：$\displaystyle \int \mathrm{e}^{-3x+2}\mathrm{d}{x}$ 答案应为  $-\dfrac13\mathrm{e}^{{\color{red}-3x+2}}+C$;
 
-4. 第5章12页练习6：求不定积分 $\displaystyle \int \cos^2 2x \mathrm{d}{x}$, 答案应为 ${\color{red}\dfrac18}\sin4x +\dfrac{x}2+C$;
+4. 第5章12页练习6：求不定积分 $\displaystyle \int \cos^2 2x \mathrm{d}{x}$, 答案应为 ${\color{red}\dfrac18}\sin4x +\dfrac{x}2+C$; 
+
+5. 第5章第20页例19：应为
+   $$
+   \begin{aligned}
+   	\int \frac{1}{\sqrt{x+1}+\sqrt[3]{x+1}} \d  x&=\int \frac{1}{t^{3}+t^{2}} \cdot 6 t^{5} \d  t
+   	 =6 \int \frac{t^{3}}{t+1} \d  t\\
+   	 &=2 t^{3}-3 t^{2}+6 t{\color{red}-6 }\ln |t+1|+C
+   	\\
+   	& = 2 \sqrt{x+1}-3 \sqrt[3]{x+1}+6 \sqrt[6]{x+1}\\
+   	&\quad {\color{red}-6} \ln (\sqrt[6]{x+1}+1)+C
+   	\end{aligned}
+   $$
+
+6. 
 
 
 ## 微积分习题汇编
