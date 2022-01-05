@@ -31,7 +31,9 @@ $\newcommand{\d}{\mathrm{d}} \newcommand{\e}{\mathrm{e}}$
    	\end{aligned}
    $$
 
-6. 
+6. 第5章第26页定理3下侧应为：1. 分母中若有因式${\color{red}(x+a)^k}$时，则分解后为$\ldots$;
+
+7. 
 
 
 ## 微积分习题汇编
