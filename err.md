@@ -15,9 +15,9 @@ $\newcommand{\d}{\mathrm{d}} \newcommand{\e}{\mathrm{e}}$
 
 2. 第5章12页例3第(2)小题：$\displaystyle \int \sin(3x+4)\mathrm{d}{x}$ 答案应为 ${\color{red}-\dfrac13}\cos (3x+4)+C$;
 
-3. 第5章12页练习1第(1)小题：$\displaystyle \int \mathrm{e}^{-3x+2}\mathrm{d}{x}$ 答案应为  $-\dfrac13\mathrm{e}^{-3x+2}+C$;
+3. 第5章12页练习1第(1)小题：$\displaystyle \int \mathrm{e}^{-3x+2}\mathrm{d}{x}$ 答案应为  $-\dfrac13\mathrm{e}^{-3x+{\color{red}2}}+C$;
 
-4. 第5章12页练习6：求不定积分 $\displaystyle \int \cos^2 2x \mathrm{d}{x}$, 答案应为 $\dfrac18\sin4x +\dfrac{x}2+C$; 
+4. 第5章12页练习6：求不定积分 $\displaystyle \int \cos^2 2x \mathrm{d}{x}$, 答案应为 ${\color{red}\dfrac18}\sin4x +\dfrac{x}2+C$; 
 
 5. 第5章第20页例19：应为
    $$
