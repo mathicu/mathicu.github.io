@@ -99,7 +99,7 @@
 		 <a href='../gltj/index'>概率统计</a>
 		</td>
           <td>
-		 <a href='../kysx/index'>考研数学</a>
+		 <a href='../index'>返回主页</a>
 		</td>
 	  </tr>
    </table>
