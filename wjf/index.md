@@ -6,34 +6,65 @@
 
 ### 课件讲义
 
-<table border="0" cellpadding="1" width="300">
+<table border="0" cellpadding="1" bgcolor="#00CCCC" width="300">
     <caption ></caption>
     <tr>
-	    <td>
+	    <td bgcolor="#FFFFFF">
+		 <a href='./docs/print_chap1.pdf'>第1章</a>
 		</td>
-		<td>
+		<td bgcolor="#FFFFFF">
+		 <a href='./docs/print_chap2.pdf'>第2章</a>
 		</td>
-        <td>
+        <td bgcolor="#FFFFFF">
+		 <a href='./docs/print_chap3.pdf'>第3章</a>
 		</td>
-        <td>
+        <td bgcolor="#FFFFFF">
+		 <a href='./docs/print_chap4.pdf'>第4章</a>
 		</td>
 	  </tr>
 	  <tr>
-	     <td>
-		 <a href='../wjf/index'>微积分</a>
+	     <td bgcolor="#FFFFFF">
+		 <a href='./docs/print_chap5.pdf'>第5章</a>
 		</td>
-          <td>
-		 <a href='../xxds/index'>线性代数</a>
+          <td bgcolor="#FFFFFF">
+		 <a href='./docs/print_fx1.pdf'>复习I</a>
 		</td>
-          <td>
-		 <a href='../gltj/index'>概率统计</a>
+          <td bgcolor="#FFFFFF">
+		 <a href='./docs/print_chap6.pdf'>第6章</a>
 		</td>
-          <td>
-		 <a href='../index'>返回主页</a>
+          <td bgcolor="#FFFFFF">
+		 <a href='./docs/print_cahp7.pdf'>第7章</a>
+		</td>
+	  </tr>
+    <tr>
+	     <td bgcolor="#FFFFFF">
+		 <a href='./docs/print_chap8.pdf'>第8章</a>
+		</td>
+          <td bgcolor="#FFFFFF">
+		 <a href='./docs/print_chap9.pdf'>第9章</a>
+		</td>
+          <td bgcolor="#FFFFFF">
+		 <a href='./docs/print_chap10.pdf'>第10章</a>
+		</td>
+          <td bgcolor="#FFFFFF">
+		 <a href='./docs/print_chap11.pdf'>第11章</a>
+		</td>
+	  </tr>
+    <tr>
+	     <td bgcolor="#FFFFFF">
+		 <a href='./docs/print_fx2.pdf'>复习II</a>
+		</td>
+          <td bgcolor="#FFFFFF">
+		 <a href='./docs/print_fx1.pdf'></a>
+		</td>
+          <td bgcolor="#FFFFFF">
+		 <a href='./docs/print_chap6.pdf'></a>
+		</td>
+          <td bgcolor="#FFFFFF">
+		 <a href='./docs/print_cahp7.pdf'></a>
 		</td>
 	  </tr>
    </table>
-
 
 ### 习题汇编 
 
