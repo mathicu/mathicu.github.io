@@ -2,8 +2,6 @@
 
 我把目前发现的所有错误列在了下面，列表中的“XXXX习题汇编YY”即为“XXX习题汇编中的第YY章”。
 
-$\newcommand{\d}{\mathrm{d}} \newcommand{\e}{\mathrm{e}}$
-
 ## 微积分课件
 
 感谢@黄静思等人提供的勘误信息！
@@ -22,8 +20,8 @@ $\newcommand{\d}{\mathrm{d}} \newcommand{\e}{\mathrm{e}}$
 5. 第5章第20页例19：应为
    $$
    \begin{aligned}
-   	\int \frac{1}{\sqrt{x+1}+\sqrt[3]{x+1}} \d  x&=\int \frac{1}{t^{3}+t^{2}} \cdot 6 t^{5} \d  t
-   	 =6 \int \frac{t^{3}}{t+1} \d  t\\
+   	\int \frac{1}{\sqrt{x+1}+\sqrt[3]{x+1}} \mathrm{d}  x&=\int \frac{1}{t^{3}+t^{2}} \cdot 6 t^{5} \mathrm{d}  t
+   	 =6 \int \frac{t^{3}}{t+1} \mathrm{d}  t\\
    	 &=2 t^{3}-3 t^{2}+6 t{\color{red}-6 }\ln |t+1|+C
    	\\
    	& = 2 \sqrt{x+1}-3 \sqrt[3]{x+1}+6 \sqrt[6]{x+1}\\
@@ -40,13 +38,13 @@ $\newcommand{\d}{\mathrm{d}} \newcommand{\e}{\mathrm{e}}$
 
 感谢@yx, @Camellia 等人提供的勘误信息！
 
-1. 微积分习题汇编01第01题：题目中“需求弹性为$\eta(100)=-\frac{100}{f(100)},f'(100)=0.25$”应改为“需求弹性为$\eta(100)=-\frac{100}{f(100)}{\color{red}\cdot}f'(100)=0.25$”
+1. 微积分习题汇编01第01题：题目中“需求弹性为$\displaystyle\eta(100)=-\frac{100}{f(100)},f'(100)=0.25$”应改为“需求弹性为$\displaystyle\eta(100)=-\frac{100}{f(100)}{\color{red}\cdot}f'(100)=0.25$”
 
 1. 微积分习题汇编第6章第9题参考答案应为 ${\color{red}B}$, 此题视频讲解答案是正确的.
 
-1. 微积分习题汇编第06章第34题视频讲解59秒左右, 第一行第一个等号后应为：$\displaystyle  \int_{-2}^{\color{red}-1}(x^2-2x-2),$ 相应地, 第二行第一个等号后应为：$\frac13 x^3-x^2-3x\big|_{-2}^{\color{red}-1}.$ 此处为笔误, 最终结果无误.
+1. 微积分习题汇编第06章第34题视频讲解59秒左右, 第一行第一个等号后应为：$\displaystyle  \int_{-2}^{\color{red}-1}(x^2-2x-2),$ 相应地, 第二行第一个等号后应为：$\displaystyle \frac13 x^3-x^2-3x\big|_{-2}^{\color{red}-1}.$ 此处为笔误, 最终结果无误.
 
-1. 微积分习题汇编第08章第29题视频讲解05分33秒左右, 最后一行应为：$f_1'+xyf_{11}''-\frac{1}{x^2}f_{\color{red}2}'-\frac{y}{x^3}f_{22}'',$ 此处为笔误+口误.
+1. 微积分习题汇编第08章第29题视频讲解05分33秒左右, 最后一行应为：$\displaystyle f_1'+xyf_{11}''-\frac{1}{x^2}f_{\color{red}2}'-\frac{y}{x^3}f_{22}'',$ 此处为笔误+口误.
 
 1. 微积分习题汇编第10章第16题视频讲解02分55秒处, 特征方程应为：$\color{red}\lambda ^2- 2 = 0.$ 该错误为笔误/口误不改变原有结论.
 
