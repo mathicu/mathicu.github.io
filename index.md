@@ -10,6 +10,12 @@
 </table>
 
 
+## 资料下载
+
+- 微积分习题汇编（上）：<a href='./wjf/docs'>点击下载</a> 
+
+- 微积分习题汇编（上）参考答案：<a href='./wjf/docs'>点击下载</a> 
+
 
 <table border="0" cellpadding="1" width="300">
     <caption ></caption>
