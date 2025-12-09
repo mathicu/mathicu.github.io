@@ -12,9 +12,9 @@
 
 ## 资料下载
 
-- 微积分习题汇编（上）：<a href='./wjf/docs/2025c_wjf_problem'>点击下载</a> 
+- 微积分习题汇编（上）：<a href='./wjf/docs/2025c_wjf_problem.pdf'>点击下载</a> 
 
-- 微积分习题汇编（上）参考答案：<a href='./wjf/docs/2025c_wjf_answer'>点击下载</a> 
+- 微积分习题汇编（上）参考答案：<a href='./wjf/docs/2025c_wjf_answer.pdf'>点击下载</a> 
 
 
 <table border="0" cellpadding="1" width="300">
