@@ -75,31 +75,3 @@
 ### 勘误信息
 
 课件和习题汇编的勘误信息请点击<a href='../err'>[这里]</a>查看，如有新发现的错误，欢迎发送邮件至 mathicu@126.com 告诉我.
-
-<table border="0" cellpadding="1" width="300">
-    <caption ></caption>
-    <tr>
-	    <td>
-		</td>
-		<td>
-		</td>
-        <td>
-		</td>
-        <td>
-		</td>
-	  </tr>
-	  <tr>
-	     <td>
-		 <a href='../wjf/index'>微积分</a>
-		</td>
-          <td>
-		 <a href='../xxds/index'>线性代数</a>
-		</td>
-          <td>
-		 <a href='../gltj/index'>概率统计</a>
-		</td>
-          <td>
-		 <a href='../index'>返回主页</a>
-		</td>
-	  </tr>
-   </table>
