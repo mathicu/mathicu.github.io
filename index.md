@@ -12,9 +12,10 @@
 
 ## 资料下载
 
-- 微积分习题汇编（上）：<a href='./wjf/docs/2025c_wjf_problem.pdf'>点击下载</a> 
-
-- 微积分习题汇编（上）参考答案：<a href='./wjf/docs/2025c_wjf_answer.pdf'>点击下载</a> 
+- 微积分习题汇编（上）：<a href='./wjf/docs/2025c_wjf_problem.pdf'>点击下载</a> ，参考答案：<a href='./wjf/docs/2025c_wjf_answer.pdf'>点击下载</a> 
+- 微积分习题汇编（下）：<a href='./wjf/docs/2026a_wjf2_problem.pdf'>点击下载</a> ，参考答案：<a href='./wjf/docs/2026a_wjf2_answer.pdf'>点击下载</a> 
+- 线性代数（经管）：<a href='./xxds/docs/2023_xxds_problem.pdf'>点击下载</a> ，参考答案：<a href='./xxds/docs/2023_xxds_answer.pdf'>点击下载</a> 
+- 概率论与数理统计（经管）：<a href='./gltj/docs/2024_gltj_problem.pdf'>点击下载</a> ，参考答案：<a href='./xxds/docs/2024_gltj_answer.pdf'>点击下载</a> 
 
 
 <table border="0" cellpadding="1" width="300">
